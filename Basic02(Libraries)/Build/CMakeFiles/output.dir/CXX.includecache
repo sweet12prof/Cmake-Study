@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basic02(Libraries)/PrintHello.hpp
+iostream
+-
+
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basic02(Libraries)/main.cpp
+./PrintHello.hpp
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basic02(Libraries)/PrintHello.hpp
+

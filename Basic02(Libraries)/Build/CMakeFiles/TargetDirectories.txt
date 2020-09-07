@@ -1,0 +1,4 @@
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basic02(Libraries)/Build/CMakeFiles/edit_cache.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basic02(Libraries)/Build/CMakeFiles/output.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basic02(Libraries)/Build/CMakeFiles/rebuild_cache.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basic02(Libraries)/Build/CMakeFiles/Hello_Lib.dir
