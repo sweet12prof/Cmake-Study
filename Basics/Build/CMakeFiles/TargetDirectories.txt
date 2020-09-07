@@ -1,0 +1,3 @@
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basics/Build/CMakeFiles/rebuild_cache.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basics/Build/CMakeFiles/edit_cache.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basics/Build/CMakeFiles/output.dir
