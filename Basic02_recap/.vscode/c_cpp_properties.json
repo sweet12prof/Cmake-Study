@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/opt/rh/devtoolset-9/root/usr/bin/gcc",
+            "cStandard": "gnu18",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

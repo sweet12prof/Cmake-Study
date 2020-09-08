@@ -1,0 +1,4 @@
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basic02_recap/Build/CMakeFiles/edit_cache.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basic02_recap/Build/CMakeFiles/output.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basic02_recap/Build/CMakeFiles/rebuild_cache.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basic02_recap/Build/CMakeFiles/Functs.dir
