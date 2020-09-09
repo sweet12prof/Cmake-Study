@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libHello.a CMakeFiles/Hello.dir/FunctLibrary/Src/Hello.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libHello.a

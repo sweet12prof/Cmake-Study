@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/g++ CMakeFiles/output.dir/main.cpp.o -o output  Libraries/libHello.a 

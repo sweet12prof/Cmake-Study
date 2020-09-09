@@ -1,0 +1,6 @@
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basics_03_subDirectories/build/CMakeFiles/rebuild_cache.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basics_03_subDirectories/build/CMakeFiles/edit_cache.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basics_03_subDirectories/build/CMakeFiles/output.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basics_03_subDirectories/build/Libraries/CMakeFiles/edit_cache.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basics_03_subDirectories/build/Libraries/CMakeFiles/rebuild_cache.dir
+/home/sweet12prof/Desktop/Final/Cmake-Study/Basics_03_subDirectories/build/Libraries/CMakeFiles/Hello.dir
