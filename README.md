@@ -1,2 +1,2 @@
 # Cmake-Study
-Repository containing my cmake studies
+Repository containing my cmake study
