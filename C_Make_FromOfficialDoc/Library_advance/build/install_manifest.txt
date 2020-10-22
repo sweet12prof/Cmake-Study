@@ -1,0 +1,4 @@
+/home/sweet12prof/Desktop/cmake_Proj_Install/Lib/libFunction.a
+/home/sweet12prof/Desktop/cmake_Proj_Install/include/someFunc.hpp
+/home/sweet12prof/Desktop/cmake_Proj_Install/bin/Version_Proj
+/home/sweet12prof/Desktop/cmake_Proj_Install/include/Config.h

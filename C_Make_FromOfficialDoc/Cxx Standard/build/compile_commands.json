@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/build",
+  "command": "/usr/bin/g++  -I\"/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/build\" -I\"/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/SourceFiles\" -g -std=gnu++11 -o CMakeFiles/output.dir/main.cpp.o -c \"/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/main.cpp\"",
+  "file": "/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/main.cpp"
+},
+{
+  "directory": "/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/build/SourceFiles",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/Functions.dir/someFunc.cpp.o -c \"/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/SourceFiles/someFunc.cpp\"",
+  "file": "/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/SourceFiles/someFunc.cpp"
+}
+]

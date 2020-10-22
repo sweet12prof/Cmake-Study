@@ -1,0 +1,6 @@
+/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/build/CMakeFiles/rebuild_cache.dir
+/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/build/CMakeFiles/edit_cache.dir
+/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/build/CMakeFiles/output.dir
+/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/build/SourceFiles/CMakeFiles/rebuild_cache.dir
+/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/build/SourceFiles/CMakeFiles/edit_cache.dir
+/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/build/SourceFiles/CMakeFiles/Functions.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../SourceFiles/someFunc.hpp
+
+/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/main.cpp
+someFunc.hpp
+/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/someFunc.hpp
+iostream
+-
+config.h
+-
+
+config.h
+

@@ -1,0 +1,14 @@
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/CMakeFiles/install/strip.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/CMakeFiles/install/local.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/CMakeFiles/install.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/CMakeFiles/list_install_components.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/CMakeFiles/rebuild_cache.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/CMakeFiles/edit_cache.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/CMakeFiles/Version_Proj.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/includes/CMakeFiles/install/strip.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/includes/CMakeFiles/install/local.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/includes/CMakeFiles/install.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/includes/CMakeFiles/list_install_components.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/includes/CMakeFiles/rebuild_cache.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/includes/CMakeFiles/edit_cache.dir
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/includes/CMakeFiles/Function.dir

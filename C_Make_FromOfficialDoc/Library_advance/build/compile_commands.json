@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build",
+  "command": "/usr/bin/g++  -I/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build -g -o CMakeFiles/Version_Proj.dir/main.cpp.o -c /home/sweet12prof/Desktop/Project/C_Make/Library_advance/main.cpp",
+  "file": "/home/sweet12prof/Desktop/Project/C_Make/Library_advance/main.cpp"
+},
+{
+  "directory": "/home/sweet12prof/Desktop/Project/C_Make/Library_advance/build/includes",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Function.dir/someFunc.cpp.o -c /home/sweet12prof/Desktop/Project/C_Make/Library_advance/includes/someFunc.cpp",
+  "file": "/home/sweet12prof/Desktop/Project/C_Make/Library_advance/includes/someFunc.cpp"
+}
+]

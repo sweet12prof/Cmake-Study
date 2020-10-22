@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/includes/someFunc.cpp
+someFunc.hpp
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/includes/someFunc.hpp
+
+/home/sweet12prof/Desktop/Project/C_Make/Library_advance/includes/someFunc.hpp
+

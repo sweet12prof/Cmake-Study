@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sweet12prof/Desktop/Project/cmke_Tutorials/build",
+  "command": "/usr/bin/g++  -I/home/sweet12prof/Desktop/Project/cmke_Tutorials/build -g -o CMakeFiles/output.dir/main.cpp.o -c /home/sweet12prof/Desktop/Project/cmke_Tutorials/main.cpp",
+  "file": "/home/sweet12prof/Desktop/Project/cmke_Tutorials/main.cpp"
+}
+]

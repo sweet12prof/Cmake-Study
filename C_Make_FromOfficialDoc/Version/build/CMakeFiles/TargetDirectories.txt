@@ -1,0 +1,3 @@
+/home/sweet12prof/Desktop/Project/cmke_Tutorials/build/CMakeFiles/rebuild_cache.dir
+/home/sweet12prof/Desktop/Project/cmke_Tutorials/build/CMakeFiles/edit_cache.dir
+/home/sweet12prof/Desktop/Project/cmke_Tutorials/build/CMakeFiles/output.dir

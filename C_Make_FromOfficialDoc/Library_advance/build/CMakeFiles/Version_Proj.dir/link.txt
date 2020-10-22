@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Version_Proj.dir/main.cpp.o -o Version_Proj  includes/libFunction.a 

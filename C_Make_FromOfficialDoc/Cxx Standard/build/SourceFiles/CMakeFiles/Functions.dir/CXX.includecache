@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/SourceFiles/someFunc.cpp
+someFunc.hpp
+/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/SourceFiles/someFunc.hpp
+
+/home/sweet12prof/Desktop/Project/C_Make/Cxx Standard/SourceFiles/someFunc.hpp
+
